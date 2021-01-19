@@ -1,0 +1,47 @@
+body
+{
+	background-color: rgb(204, 241, 255);
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+
+
+.menu{
+	background-color: rgb(70, 180, 254);
+	margin-bottom: 35px;
+	margin-top: 30px;
+
+}
+
+
+
+.mapa{
+	margin-bottom: 40px;
+	margin-top: 30px;
+}
+
+
+
+.boton{
+	width: 100%;
+	border: 0px;
+    font-size: 24px;
+    background-color: rgb(70, 180, 254);
+	outline:none;
+	font-weight: bold;
+  }
+  
+  
+  
+.datos{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+
+
+.informacion{
+	font-size: 21px;
+	color: white;
+}

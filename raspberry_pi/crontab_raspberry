@@ -1,0 +1,2 @@
+*/5 * * * * /usr/bin/python3 /home/pi/sensores/generador.py
+* 1 * * * find /home/pi/sensores/logs/ -mmin +1440 -delete
